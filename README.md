@@ -1,4 +1,4 @@
-# 跨境电商ERP+WMS
+# 跨境电商ERP+WMS (支持windows和linux部署安装,支持docker容器化)
 
 #### 介绍
 跨境电商ERP源码，跨境电商erp系统源码：亚马逊erp源码、wish erp源码、ebay erp源码、速卖通erp源码、shopify erp源码、shopee虾皮erp源码、lazada来赞达erp源码。对接亚马逊、wish、ebay、速卖通、shopify、shopee虾皮、lazada等跨境电商平台源码，跨境电商erp源码。
